@@ -1,6 +1,6 @@
 # 🎵 Music Genre Classification using Machine Learning
 
-This project explores the use of machine learning to classify music tracks by genre using audio features derived from Spotify’s metadata. It is part of the final project for the **ADS 504 - Applied Machine Learning** course.
+This project explores the use of machine learning to classify music tracks by genre using audio features derived from Spotify’s metadata.
 
 All analysis was conducted in **Google Colab** due to dataset size and compute resource constraints.
 
